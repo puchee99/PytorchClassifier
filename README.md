@@ -121,9 +121,14 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Create environment with python 3 / Activate repo
   ```sh
-  npm install npm@latest -g
+  python3 -m venv venv
+  source venv/bin/activate
+  ```
+* packages required
+  ```sh
+  pip install -r requirements.txt
   ```
 
 ### Installation
@@ -145,18 +150,6 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
