@@ -67,7 +67,7 @@
 
 [![product-screenshot]]
 
-Given a csv with a target column, it processes the data and trains a predictor using neural networks.
+Classify data using neural networks.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -121,10 +121,11 @@ Run `python train.py`
 
 ## Roadmap
 
-- [x] Add
-- [x] Add 
-    - [ ] 
-    - [ ] 
+- [x] Train model
+- [x] Loggers
+- [ ] BI
+    - [ ] Flask
+    - [ ] Plotly
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
