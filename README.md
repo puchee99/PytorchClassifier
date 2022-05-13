@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/puchee99/images_repo">
-    <img src="fractal.jpg" alt="Logo" width="80" height="80">
+    <img src="a.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">PytorchClassifier</h3>
