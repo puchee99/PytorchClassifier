@@ -81,16 +81,14 @@ Run `python train.py`
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks/libraries used in this project. 
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Pytorch](https://pytorch.org/)
+* [scikit-learn](https://scikit-learn.org/)
+* [Numpy](https://numpy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Logging](https://docs.python.org/3/library/logging.html)
+* [Seaborn](https://seaborn.pydata.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -99,39 +97,26 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Given a csv with a target column, it processes the data and trains a predictor using neural networks.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* Create environment with python 3 / Activate repo
-  ```sh
-  python3 -m venv venv
-  source venv/bin/activate
-  ```
-* packages required
-  ```sh
-  pip install -r requirements.txt
-  ```
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+This is an example of how to list things you need to use the software and how to install them.
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Create environment with python 3 / Activate repo
+    ```sh
+  python3 -m venv venv
+  source venv/bin/activate
+  ```
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/puchee99/PytorchClassifier.git
    ```
-3. Install NPM packages
+3. Install pip packages
    ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+    pip install -r requirements.txt
+    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
