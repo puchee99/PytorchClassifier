@@ -16,8 +16,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/puchee99/images_repo">
-    <img src="a.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/puchee99/PytorchClassifier">
+    <img src="images/a.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">PytorchClassifier</h3>
