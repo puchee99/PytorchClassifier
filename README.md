@@ -54,7 +54,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Contact</a></li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -99,16 +99,16 @@ This is an example of how to list things you need to use the software and how to
 
 1. Create environment with python 3 / Activate repo
     ```sh
-  python3 -m venv venv
-  source venv/bin/activate
-  ```
+      python3 -m venv venv
+      source venv/bin/activate
+    ```
 2. Clone the repo
    ```sh
-   git clone https://github.com/puchee99/PytorchClassifier.git
+      git clone https://github.com/puchee99/PytorchClassifier.git
    ```
 3. Install pip packages
    ```sh
-    pip install -r requirements.txt
+      pip install -r requirements.txt
     ```
 
 
@@ -132,7 +132,7 @@ Run `python train.py`
 <!-- CONTACT -->
 ## Contact
 
-Arnau Puche  - [@arnau_puchee](https://www.linkedin.com/in/arnau-puche-vila-ds/) - arnaupuchevila@gmail.com
+Arnau Puche  - [@arnau_puche_vila](https://www.linkedin.com/in/arnau-puche-vila-ds/) - arnaupuchevila@gmail.com
 
 Project Link: [https://github.com/puchee99/PytorchClassifier](https://github.com/puchee99/PytorchClassifier)
 
