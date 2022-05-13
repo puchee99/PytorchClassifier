@@ -51,16 +51,12 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">Contact</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -72,8 +68,6 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Given a csv with a target column, it processes the data and trains a predictor using neural networks.
-
-Run `python train.py`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -91,7 +85,6 @@ This section should list any major frameworks/libraries used in this project.
 * [Seaborn](https://seaborn.pydata.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -118,10 +111,14 @@ This is an example of how to list things you need to use the software and how to
     pip install -r requirements.txt
     ```
 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Usage
 
-<!-- ROADMAP -->
+Run `python train.py`
+
+
 ## Roadmap
 
 - [x] Add
