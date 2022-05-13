@@ -170,7 +170,7 @@ Project Link: [https://github.com/puchee99/PytorchClassifier](https://github.com
 [issues-shield]: https://img.shields.io/github/issues/puchee99/PytorchClassifier.svg?style=for-the-badge
 [issues-url]: https://github.com/puchee99/PytorchClassifier/issues
 [license-shield]: https://img.shields.io/github/license/puchee99/PytorchClassifier.svg?style=for-the-badge
-[license-url]: https://github.com/puchee99/PytorchClassifier/blob/master/LICENSE.txt
+[license-url]: https://github.com/puchee99/PytorchClassifier/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/arnau-puche-vila-ds/
 [product-screenshot]: images/a.png
