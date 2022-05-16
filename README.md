@@ -75,8 +75,6 @@ Classify data using neural networks.
 
 ### Built With
 
-This section should list any major frameworks/libraries used in this project. 
-
 * [Pytorch](https://pytorch.org/)
 * [scikit-learn](https://scikit-learn.org/)
 * [Numpy](https://numpy.org/)
