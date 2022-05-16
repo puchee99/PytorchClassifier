@@ -96,22 +96,31 @@ Given a csv with a target column, it processes the data and trains a predictor u
 
 ### Installation
 
-This is an example of how to list things you need to use the software and how to install them.
 
-1. Create environment with python 3 / Activate repo
-    ```sh
-      python3 -m venv venv
-      source venv/bin/activate
-    ```
-2. Clone the repo
+First, clone the repository:
    ```sh
-      git clone https://github.com/puchee99/PytorchClassifier.git
+   git clone https://github.com/puchee99/Flask-App.git
    ```
-3. Install pip packages
-   ```sh
-      pip install -r requirements.txt
+Access to the project folder with:
+  ```sh
+  cd Flask-App
+  ```
+
+We will create a virtual environment with `python3`
+* Create environment with python 3 
+    ```sh
+    python3 -m venv venv
+    ```
+    
+* Enable the virtual environment
+    ```sh
+    source venv/bin/activate
     ```
 
+* Install the python dependencies on the virtual environment
+    ```sh
+    pip install -r requirements.txt
+    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
