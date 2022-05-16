@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![product-screenshot]]
+[![product-screenshot]
 
 Classify data using neural networks.
 
