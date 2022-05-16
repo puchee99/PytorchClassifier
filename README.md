@@ -98,11 +98,11 @@ Given a csv with a target column, it processes the data and trains a predictor u
 
 First, clone the repository:
    ```sh
-   git clone https://github.com/puchee99/Flask-App.git
+   git clone https://github.com/puchee99/PytorchClassifier.git
    ```
 Access to the project folder with:
   ```sh
-  cd Flask-App
+  cd PytorchClassifier
   ```
 
 We will create a virtual environment with `python3`
