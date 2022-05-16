@@ -65,11 +65,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[product-screenshot]
+![product-screenshot]
+Image[product-screenshot]
 
 Classify data using neural networks.
 
-![product-screenshot]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
